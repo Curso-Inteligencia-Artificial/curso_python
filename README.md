@@ -37,3 +37,12 @@ Introducción a matplotlib\
 Visualización de datos\
 Personalización de los gráficos\
 Casos de aplicación
+
+Este curso se basa en el que crearon desde el grupo de ramas estudiantiles del ITBA que organizó un curso de introducción a Python abierto y
+ gratuito.
+
+\
+<img width="300" height="150" src="https://i.ibb.co/b52mZQG/ieee-cs.png">
+
+\
+El material es de libre distribución bajo la licencia [Creative Commons](https://creativecommons.org) CC-BY-NC-SA.
