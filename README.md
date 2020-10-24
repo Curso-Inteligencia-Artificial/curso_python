@@ -15,7 +15,7 @@ Introducción a la programación en Python\
 Variables\
 Operadores\
 Control de flujo (if, while, for)\
-Funciones\
+Funciones
 
 **Clase 2 :**
 \
