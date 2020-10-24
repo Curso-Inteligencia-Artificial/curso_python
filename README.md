@@ -8,11 +8,11 @@ El curso consiste en 4 clases e incluye la realización de un proyecto práctico
 \
 \
 **Clase 1 :**
-Introducción a la programación en Python
-Variables
-Operadores
-Control de flujo (if, while, for)
-Funciones 
+Introducción a la programación en Python\
+Variables\
+Operadores\
+Control de flujo (if, while, for)\
+Funciones \
 
 **Clase 2 :**
 Tipos de datos (int, float, string, boolean)
